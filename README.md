@@ -20,6 +20,7 @@
 * _ESLint_
 * _Jest_
 * _Babel_
+* _dotenv_
 
 
 ## Description
